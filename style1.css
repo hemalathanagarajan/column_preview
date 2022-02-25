@@ -57,6 +57,10 @@ p{
 .very-dark-cyan .btn{
     color: var(--very-dark-cyan);
 }
+.card{
+    padding:35px;
+    
+}
 .card p{
     margin-bottom:30px;
 }
@@ -69,10 +73,7 @@ p{
 .container{
     padding:25px;
 }
-.card{
-    padding:35px;
-    
-}
+
 .attribution {
      font-size: 11px; text-align: center; 
     }
